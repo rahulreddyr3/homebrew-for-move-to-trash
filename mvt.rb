@@ -1,9 +1,9 @@
 class Mvt < Formula
   desc "A command line tool for replacing 'Move to trash' option in mac."
   homepage "https://github.com/rahulreddyr3/MoveToTrash.git"
-  url "https://github.com/rahulreddyr3/MoveToTrash/archive/v1.0.5.tar.gz"
-  sha256 "c2d0d24d4ad75149b8f6c7615d4c5ac2214e6d0dbcb35abd4ac86392d60cc665"
-  version "1.0.5"
+  url "https://github.com/rahulreddyr3/MoveToTrash/archive/v1.0.7.tar.gz"
+  sha256 "003ee5df0133d7ca5b8f4a2458c22bff9deebc66675f7a54f03f6993897c167c"
+  version "1.0.7"
 
   bottle :unneeded
 
